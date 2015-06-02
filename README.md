@@ -11,3 +11,5 @@ do you like wear hat ?
 yes i do
 
 what kind od foods do you like ?
+
+i like all kind of foods
