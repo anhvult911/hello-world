@@ -9,3 +9,5 @@ i'm leaning English
 
 do you like wear hat ?
 yes i do
+
+what kind od foods do you like ?
